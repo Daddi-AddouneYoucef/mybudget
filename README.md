@@ -1,5 +1,1 @@
-# coding-project-template
-
-
-
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+Budget allocation web app for the multiples department of a company
